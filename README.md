@@ -35,3 +35,17 @@ This project demonstrates:
 - Power BI
 - Data Modeling
 - Healthcare Analytics
+
+## Dashboard Preview
+
+### Healthcare Analysis Dashboard
+
+![Healthcare Analysis Dashboard](Healthcare_Analysis_Dashboard.png)
+
+### Clinical & Patient Analytics
+
+![Clinical Patient Analytics](Clinical_Patient_Analytics.png)
+
+### Database ERD Diagram
+
+![Healthcare ERD](Healthcare_ERD_Diagram.png)
